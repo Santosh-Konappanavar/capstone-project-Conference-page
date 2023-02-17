@@ -109,9 +109,9 @@ This is a conference page designed to showcase my experiences. The website is bu
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [PortFolio](https://santosh-konappanavar.github.io/PortFolio/)
+- [Conference](https://santosh-konappanavar.github.io/PortFolio/)
 
-- Click here to see [loom video](https://www.loom.com/share/3174f93cb3414ca390828e69afc0a749)
+- Click here to see [loom video](https://www.loom.com/share/d05b51a8293844e1aa85d0dffa88e4b6)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -170,7 +170,7 @@ This website has been completed and deployed
 
 ### Deployment
 
-- [PortFolio](https://santosh-konappanavar.github.io/PortFolio/)
+- [Conference](https://santosh-konappanavar.github.io/PortFolio/)
 
 
 
@@ -226,8 +226,12 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-
-I would like to thank Microverse Team for this opportunity. Its my solo project and I had  completed this project within deadline.
+<div align='center'>
+<h3>I would like to thank Microverse Team for this opportunity. Its my solo project and I had  completed this project within deadline.</h3>
+<h5>
+ The Original design idea is by <a href="https://www.behance.net/adagio07"><b>Cindy Shin in Behance"</b><a>  Thanks ❤️ to <b>Cindy Shin</b> Creating such a beautiful design.
+ </h5>
+ </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

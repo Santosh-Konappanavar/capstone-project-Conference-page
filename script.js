@@ -69,7 +69,7 @@ const DesktopFeature = [
 mobilepopup.forEach((speaker) => {
   const featureCard = document.createElement('div');
   featureCard.className = 'feature-card';
-  featureCard.innerHTML = `<div><img class="featureimg" src="${speaker.img}" alt ="${speaker.About}" /></div>
+  featureCard.innerHTML = `<div class='featurecardbg'><img class="featureimg" src="${speaker.img}" alt ="${speaker.About}" /></div>
   <div class="feature_detail">
           <h3> ${speaker.Name}</h3>
           <h4 >${speaker.About}</h4>
@@ -90,7 +90,7 @@ MoreButton.addEventListener('click', () => {
   DesktopFeature.forEach((speaker) => {
     const featureCard = document.createElement('div');
     featureCard.className = 'feature-card';
-    featureCard.innerHTML = `<div><img class="featureimg" src="${speaker.img}" alt ="${speaker.About}" /></div>
+    featureCard.innerHTML = `<div class='featurecardbg'><img class="featureimg" src="${speaker.img}" alt ="${speaker.About}" /></div>
   <div class="feature_detail">
           <h3> ${speaker.Name}</h3>
           <h4 >${speaker.About}</h4>
@@ -114,7 +114,7 @@ const desktopFeature = document.querySelector('.feature_desktop');
 DesktopFeature.forEach((speaker) => {
   const desktopCard = document.createElement('div');
   desktopCard.className = 'desktopcard';
-  desktopCard.innerHTML = `<div><img class="desktopimg" src="${speaker.img}" alt="${speaker.Name}" /></div>
+  desktopCard.innerHTML = `<div class='desktop_bgimg'><img class="desktopimg" src="${speaker.img}" alt="${speaker.Name}" /></div>
   <div class="desktopdetail">
           <h3> ${speaker.Name}</h3>
           <h4 >${speaker.About}</h4>

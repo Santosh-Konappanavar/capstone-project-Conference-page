@@ -159,6 +159,11 @@ nav {
   padding-left: 10px;
 }
 
+.lecturemrg {
+  margin-top: 40px;
+  font-size: 20px;
+}
+
 .program_content > :nth-child(3) {
   width: 50%;
   padding-left: 30px;
@@ -211,22 +216,30 @@ nav {
   margin-top: 8%;
 }
 
+.featurecardbg {
+  background-image: url("image/checkbg.PNG");
+  background-repeat: no-repeat;
+  width: 120px;
+  height: 120px;
+  margin-top: 13% !important;
+}
+
 .featureimg {
-  width: 100%;
-  height: 70%;
-  margin-top: 25%;
+  width: 100px;
+  height: 100px;
+  margin-top: 30%;
+  margin-left: 20%;
 }
 
 .feature-card {
   display: flex;
   flex-direction: row;
   text-align: left;
-  gap: 10px;
+  gap: 15px;
 }
 
 .feature-card > div {
-  width: 100%;
-  margin: 5px;
+  margin: 10px;
 }
 
 .feature_detail > h3 {
@@ -361,9 +374,9 @@ nav {
 }
 
 .creativesummit > :nth-child(4) {
-  width: 200px;
-  height: 200px;
-  padding: 30px;
+  width: 300px;
+  height: 100px;
+  padding: 25px;
   background-color: white;
   border: 2px solid whitesmoke;
   margin-bottom: 10%;
@@ -425,8 +438,8 @@ nav {
 
 .aboutsponshership {
   margin: 10%;
-  text-align: center;
   color: #5c5c59;
+  text-align: center;
 }
 
 .partner > hr {
@@ -436,17 +449,16 @@ nav {
 }
 
 .sponser {
-  width: 100%;
   display: grid;
-  grid-template-columns: repeat(3, 40%);
-  justify-content: space-between;
-  gap: 10px;
+  grid-template-columns: repeat(3, 32%);
   background-color: #272a31;
+  gap: 5px;
 }
 
 .sponser > img {
-  width: 50px;
-  height: 50px;
+  width: 100%;
+  height: 40px;
+  padding: 5px;
 }
 
 .aboutfooter {
@@ -470,6 +482,15 @@ nav {
   color: #ec5242;
 }
 
+#ccborder {
+  padding: 10px;
+  border: 2.5px solid red;
+}
+
+#logomargin {
+  margin-left: 50%;
+}
+
 @media only screen and (min-width: 768px) {
   .mobilemenu {
     display: none !important;
@@ -481,6 +502,10 @@ nav {
   .arrowbtn,
   .featured_speaker {
     display: none;
+  }
+
+  #abtfootermrgn {
+    margin-left: -70%;
   }
 
   header {
@@ -628,13 +653,13 @@ nav {
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin: 0.2%;
     background: rgba(117, 116, 116, 0.2);
   }
 
   .program_content > div {
-    padding-right: unset;
-    height: 40%;
+    padding: 0;
+    height: 100%;
+    width: 30%;
   }
 
   .program_content:hover {
@@ -660,8 +685,9 @@ nav {
   .porgram {
     display: flex;
     flex-direction: row;
-    width: 85%;
-    margin: auto auto 30px auto;
+    text-align: center;
+    width: 80%;
+    margin: -7% auto 30px auto;
   }
 
   .globlbtn {
@@ -700,14 +726,23 @@ nav {
     text-align: left;
   }
 
+  .desktop_bgimg {
+    background-image: url("image/checkbg.PNG");
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 120px;
+    margin-top: 25px;
+  }
+
   .desktopimg {
     width: 100px;
     height: 100px;
-    margin-top: 25%;
+    margin-top: 20%;
+    margin-left: 10%;
   }
 
   .desktopdetail {
-    margin-left: 10px;
+    margin-left: 25px;
   }
 
   .desktopdetail > h3 {
@@ -745,8 +780,8 @@ nav {
   }
 
   .partner > hr {
-    width: 5%;
-    border: 1px solid #9c9a9a;
+    width: 3%;
+    border: 1px solid red;
   }
 
   .sponser {
@@ -757,10 +792,9 @@ nav {
   }
 
   .sponser > img {
-    width: unset;
-    width: 100px;
+    width: 100%;
     height: 50px;
-    margin: 5% auto 5% auto;
+    margin: -12% auto 5% auto;
   }
 
   .footer {
@@ -857,9 +891,9 @@ nav {
   }
 
   #creative > :nth-child(4) {
-    width: 300px;
-    height: 300px;
-    padding: 25px;
+    width: 350px;
+    height: 100px;
+    padding: 20px;
     background-color: white;
     border: 2px solid whitesmoke;
     margin: -60px auto 10px auto;
