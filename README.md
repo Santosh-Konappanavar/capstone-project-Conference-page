@@ -109,7 +109,7 @@ This is a conference page designed to showcase my experiences. The website is bu
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Conference](https://santosh-konappanavar.github.io/PortFolio/)
+- [Conference](https://santosh-konappanavar.github.io/capstone-project-Conference-page/)
 
 - Click here to see [loom video](https://www.loom.com/share/d05b51a8293844e1aa85d0dffa88e4b6)
 
@@ -170,7 +170,7 @@ This website has been completed and deployed
 
 ### Deployment
 
-- [Conference](https://santosh-konappanavar.github.io/PortFolio/)
+- [Conference](https://santosh-konappanavar.github.io/capstone-project-Conference-page/)
 
 
 
