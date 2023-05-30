@@ -182,7 +182,7 @@ This website has been completed and deployed
 
 
 
-👤 **Author**
+👤 **Santosh Konappanavar**
 
 - GitHub: [@Santosh-Konappanavar](https://github.com/Santosh-Konappanavar/Portfolio-mobile-setup)
 - Twitter: [@SantoshKonapp1](https://twitter.com/SantoshKonappa1)
